@@ -1,0 +1,11 @@
+h1{
+    color: brown;
+    font-size: 50px;
+}
+p {
+    color: darkseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+border: 3px rgb(248, 244, 14);
+}
